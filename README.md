@@ -7,3 +7,11 @@ git add .
 git command -m "foder created structure"
 
 git push origin main
+
+
+
+# How to run?
+
+conda create -n visa python=3.8 -y
+
+ pip install -r requirements.txt 
